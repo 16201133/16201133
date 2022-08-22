@@ -1,51 +1,48 @@
-# 联系方式
+ <center>
+     <h1>XXX</h1>
+ </center>
 
-- Email：2112054316@qq.com
-- 微信号：会飞的咸鱼
-- QQ：2112054316
-- CSDN：https://blog.csdn.net/qq_37626867
+## 个人信息 
 
-# 个人信息
+* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：25  
+* 手 机：134XXXX3216 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：XXXXX@XXX.com    
+* 专 业：计算机科学与计算 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：研发工程师
 
- - ZP_Coder/男/1997
- - 本科/南昌航空大学
- - 工作年限：1年
- - Github：https://github.com/16201133
+## 工作及教育经历
 
- - 期望职位：后端开发工程师（Java/C#方向）
- - 期望薪资：面议
- - 期望城市：面议
+* 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.8~至今&emsp;&emsp;&emsp;&emsp;&emsp; 事业群名字-部门名字       
+* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2019.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-研究生         
+* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2013.9~2017.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-本科  
 
+## 专业技能
 
-# 工作经历
+* 熟练使用 C++，掌握Go，了解 Java、Python、PHP 等编程语言
+* 掌握基础数据结构和算法的基本原理
+* 等等
 
-先不写吧，登录招聘网站修改简历就会收到各类短信信息，溜了溜了
-  
-  
+## 项目经历
 
-## 开源项目
+1. 公司/学校 - XXweb服务器 - 独立开发 - 201508- 201512 
+    * 具体功能 
+    * 运用了那些技术，技术难点是
+    * 效果如何
+    * demo演示地址，github地址 
 
-待完善。。。
+2. 公司/学校 - XX游戏 - 负责后端开发 - 201309- 201401 
+    * 具体功能 
+    * 运用了那些技术，技术难点是
+    * 效果如何
+    * demo演示地址，github地址 
 
-  - 
-  - 
+## 获奖经历
+* XXX 优秀新人
+* XXX 学生社团优秀干部
+* 竞赛 XXX 奖
 
-## 技术文章
+## 个人账号 
+* blog 地址 (附加自己博客特色，写了哪些技术文章)
+* github 地址 (附加自己github特色，突出的项目)
 
-待完善。。。
-
-- 
-- 
-    
-    
-# 技能清单
-
-以下均为我熟练使用的技能
-- 后端开发：Java/C#
-- 数据库相关：MySQL/SQl Server/Oracle
-- 版本管理、文档和自动化部署工具：Svn/Git
-      
----      
-# 致谢
-感谢您花时间阅读我的简历，期待能有机会和您共事。
-      
+## 其他信息 
+* 喜欢钻研技术 等等
+* 性格开朗，喜欢跳舞，做个主持人 等等 
