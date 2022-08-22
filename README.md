@@ -1,24 +1,23 @@
  <center>
-     <h1>XXX</h1>
+     <h1>周鹏</h1>
  </center>
 
 ## 个人信息 
 
-* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：25  
-* 手 机：134XXXX3216 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：XXXXX@XXX.com    
-* 专 业：计算机科学与计算 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：研发工程师
+* 性 别：男 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 年 龄：25  
+* 手 机：18770637705 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp; 邮 箱：2112054316@qq.com    
+* 专 业：软件工程 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&emsp;&ensp;&ensp;&emsp; 岗 位：Java工程师
 
 ## 工作及教育经历
 
-* 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.8~至今&emsp;&emsp;&emsp;&emsp;&emsp; 事业群名字-部门名字       
-* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2019.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-研究生         
-* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2013.9~2017.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-本科  
+* 浙江蓝鸽科技有限公司 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 2020.7~至今 &emsp;&emsp;&emsp;&emsp;&emsp; 软件工程师
+* 南昌航空大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&emsp;&ensp;&emsp;&emsp;2016.9~2020.7 &emsp;&emsp;&emsp;&emsp; 软件设计与开发专业-本科  
 
 ## 专业技能
 
 * 熟练使用 C++，掌握Go，了解 Java、Python、PHP 等编程语言
 * 掌握基础数据结构和算法的基本原理
-* 等等
+* ...
 
 ## 项目经历
 
